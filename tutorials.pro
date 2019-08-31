@@ -8,3 +8,5 @@ SOURCES += \
 
 HEADERS += \
     functors.h
+
+QMAKE_CXXFLAGS += -std=c++17
